@@ -1,0 +1,181 @@
+.listItem{
+    text-align: right;
+    font-size: 0.8rem;
+}
+.reviewInfoRow{
+    width: 98.5%;
+    margin-left: 1rem;
+}
+.userReviewTitle{
+    text-align: center;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+.userName {
+    font-size: 0.8rem;
+}
+.userReviewPoint {
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+.userReviewDate {
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+.reviewListGroup{
+    width:100%;
+    padding-left:1.5em;
+    align-items: center;
+}
+.collapse{
+    width:100%;
+}
+.ReviewWrite{
+    text-align: left;
+    align-self: center;
+    align-content: center;
+    margin-top: 2rem;
+    margin-left: 2.3rem;
+    margin-right: 2rem;
+
+}
+
+#productReviewCount {
+    font-size: 0.8rem;
+    color: #006edc;
+    margin-bottom: 1rem;
+    text-align: right;
+    margin-top:1rem;
+    margin-left: 66%;
+}
+
+#reviewWriteButton {
+    font-size: 0.8rem;
+    color: #006edc;
+    background-color: white;
+    border: 1px solid #006edc;
+    margin-top: 0.5rem;
+}
+
+#reviewTitleTitle {
+    font-size: 1rem;
+    color: #006edc;
+    padding-top: 1rem;
+}
+
+#reviewTitleTitleStar {
+    font-size: 1rem;
+    color: #006edc;
+    padding-top: 1rem;
+}
+
+#hashTag {
+    font-size: 1rem;
+}
+
+#reviewButtonArea {
+    align-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+    margin-left: 45%;
+}
+
+#reviewButton {
+    font-size: 0.8rem;
+    color: #006edc;
+    background-color: white;
+    border: 1px solid #006edc;
+    margin-top: 0.5rem;
+}
+
+.pagination {
+    margin-top: 2rem;
+}
+
+#deleteReview {
+    font-size: 0.8rem;
+    color: #006edc;
+    background-color: white;
+    border: 1px solid #006edc;
+
+    margin-left: 93%;
+}
+
+#reviewText {
+    border: 1px solid darkgray;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    font-size: 0.8rem;
+}
+
+#reviewTextTitle {
+    font-size: 1rem;
+    color: #006edc;
+    padding-top: 1rem;
+    padding-bottom: 0.3rem;
+    margin-left: 1rem;
+}
+
+.reviewTitle {
+    margin-bottom: 1rem;
+}
+
+#reviewTitles {
+    align-items: center;
+    margin-left: 50%;
+    font-size: 1rem;
+}
+#hashtag {
+    align-items: center;
+    margin-left: 70%;
+    font-size: 1rem;
+}
+
+#idTitle {
+    align-items: center;
+    margin-left: 60%;
+    font-size: 1rem;
+}
+
+#date {
+    align-items: center;
+    margin-left: 40%;
+    font-size: 1rem;
+}
+
+#stars {
+    align-items: center;
+    margin-left: 45%;
+    font-size: 1rem;
+}
+
+#blogReviewTitle {
+    align-items: center;
+    margin-left: 52%;
+    font-size: 1rem;
+}
+
+#contents {
+    align-items: center;
+    margin-left: 52%;
+    font-size: 1rem;
+}
+
+#blogName {
+    align-items: center;
+    margin-left: 40%;
+    font-size: 1rem;
+}
+
+#blogDate {
+    align-items: center;
+    margin-left: 40%;
+    font-size: 1rem;
+}
+
+.blogReviewTitle {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}

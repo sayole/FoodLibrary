@@ -1,0 +1,74 @@
+#myPage {
+    padding-top: 5vh;
+}
+#myPageTitle {
+    font-size: 4rem;
+    align-content: center;
+    font-family: NanumBarunGothic;
+    color: #006edc;
+    margin-left: -2vh;
+}
+
+#myPageTitleArea {
+    margin-bottom: 3rem;
+}
+
+.myFilter {
+    color: #006edc;
+    background-color: white;
+    border: 1px solid #006edc;
+    font-family: NanumBarunGothic;
+    font-size: 2.5vh;
+    border-radius: 30px;
+    padding: 0.5vh 3vh 0.5vh 3vh;
+    margin-left: 2vh;
+    margin-top: 4vh;
+}
+
+
+.myHeart {
+    color: #006edc;
+    font-family: NanumBarunGothic;
+    font-size: 2vh;
+}
+.saveInfo {
+    margin-bottom: 0;
+}
+
+#myHeartTitle {
+    padding-top:4vh;
+    margin-bottom: 2vh;
+    color: #006edc;
+}
+
+#myHeartText {
+    font-size: 2.5vh;
+
+}
+
+.myPageHR {
+    margin-top:3rem;
+    width: 100%;
+}
+
+#saveMyAllergy {
+    font-family: NanumBarunGothic;
+    color: #006edc;
+    border-color: #006edc;
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 3rem;
+    margin-left: 3rem;
+}
+
+#myPageTab {
+    width: 34rem;
+    margin-left: 0.5rem;
+    font-size: 1.2rem;
+    font-family: NanumBarunGothic;
+    color: #006edc;
+}
+
+#myPageTab:hover{
+    border: 1px solid #006edc;
+}

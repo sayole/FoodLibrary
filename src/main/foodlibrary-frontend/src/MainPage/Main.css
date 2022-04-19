@@ -1,0 +1,91 @@
+#title{
+    width: 60vh;
+    margin-left: 1vh;
+    margin-top: 15vh;
+}
+
+@media (max-width: 1000px) {
+    #title{
+        width: 40vh;
+        margin-left: 2vh;
+        margin-top: 20vh;
+    }
+}
+
+#mainSearchButton {
+    width: 1.5vh;
+    height: 1.5vh;
+}
+
+#searchArea {
+    margin-top: 2vh;
+}
+
+.mainSearchButton {
+    background-color: white;
+    border: 1px solid #006edc;
+}
+
+#mainSearchArea {
+    border: 1px solid #006edc;
+}
+
+
+.allergyFilteringMain {
+    width: 19rem;
+    margin-top: 1rem;
+}
+
+.diseaseFilteringMain {
+    width: 19rem;
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
+
+#modalHeader {
+    text-align: center;
+}
+
+#infoImgButtonMain {
+    background-color: white;
+    border-radius: 200px;
+    border: 1px solid white;
+    margin-top: 0.8vh;
+    margin-left: 5.4rem;
+
+}
+
+#infoImg {
+    width: 3vh;
+    height: 3vh;
+}
+
+#infoImgButton:active {
+    border: 1px solid white;
+}
+
+.categoryName {
+    font-size: 1rem;
+    padding-left: 1rem;
+    color: dimgray;
+}
+
+#collapse {
+    margin-top: 1rem;
+    margin-left: 2vh;
+}
+
+.categoryName {
+    font-size: 1rem;
+    padding-left: 1rem;
+    color: dimgray;
+}
+
+#collapse {
+    margin-top: 1rem;
+    margin-left: 2vh;
+}
+
+.infoTitles {
+    font-weight: bold;
+}

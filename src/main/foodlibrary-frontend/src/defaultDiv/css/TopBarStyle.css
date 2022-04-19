@@ -1,0 +1,107 @@
+#topBar {
+    margin-top: 1vh;
+}
+
+#collapse {
+
+    margin-top: 1rem;
+    margin-left: 2vh;
+}
+
+#categoryImg {
+    width: 5vh;
+    height: 5.5vh;
+}
+
+#navBar {
+    border: 1px solid white;
+}
+
+#logo {
+    margin-left: 1vh;
+    margin-top: 0.5vh;
+    width: 25vh;
+    height: 4.8vh;
+}
+
+#searchButtonImg {
+    width: 3vh;
+    height: 3.3vh;
+}
+
+#searchButton {
+    margin-left: 1vh;
+    margin-top: 1.2vh;
+    border: 1px solid #006edc;
+    background-color: white;
+    border-radius:10px;
+}
+
+#searchInput {
+    margin-top: 1.2vh;
+    width: 50vh;
+    height: 4.5vh;
+    border: 1px solid #006edc;
+    border-radius: 10px;
+}
+
+#loginButton {
+    padding: 0.5vh 2vh;
+    margin-top: 1.5vh;
+    text-align: center;
+    border: 1px solid #006edc;
+    background-color: white;
+    border-radius: 10px;
+    color: #006edc;
+    font-family: NanumBarunGothic;
+    font-size: 2.2vh;
+    letter-spacing: 4px;
+}
+
+#memberImageArea {
+    border: white;
+    background-color: white;
+}
+
+.memberImage {
+    border-radius: 30px;
+    border: 2px solid #006edc;
+}
+
+#myPageButton {
+    margin-top: 1.5vh;
+    margin-left: 1vh;
+    text-align: center;
+    border: 1px solid #006edc;
+    background-color: white;
+    border-radius: 10px;
+    color: #006edc;
+    font-family: NanumBarunGothic;
+    font-size: 2.2vh;
+    letter-spacing: 4px;
+}
+
+.allergyFiltering {
+    width: 32rem;
+    margin-top: 1vh;
+    margin-left:1rem;
+}
+
+.diseaseFiltering {
+    width: 32rem;
+    margin-top: 1vh;
+    margin-left:1rem;
+}
+
+#allergyChip {
+    background-color: #006edc;
+    border: 1px solid #006edc;
+    font-family: NanumBarunGothic;
+    font-size: 4vh;
+}
+
+.allergyFiltering {
+    color: #006edc !important;
+}
+
+

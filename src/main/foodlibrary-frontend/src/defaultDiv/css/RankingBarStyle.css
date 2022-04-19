@@ -1,0 +1,35 @@
+.rankingToggleMenu {
+    padding-top: 1.2vh;
+    color: #006edc;
+}
+
+#rankingToggleBar {
+    margin-left: 3rem;
+    margin-right: 0vh;
+}
+
+.rankingButton {
+    border: 1px solid #006edc;
+    background-color: #006edc;
+    color: white;
+    height: 5vh;
+    width: 7vh;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.rankingToggle {
+    border: 1px solid #006edc;
+    background-color: white;
+    color: #006edc;
+    height: 5vh;
+    width: 20rem;
+    margin-right: 1.5vh;
+    border-radius: 0px 10px 10px 0px;
+}
+
+#rankingToggle {
+    color: dimgray;
+    border: 1px solid #006edc;
+    width: 20rem;
+    border-radius: 10px;
+}

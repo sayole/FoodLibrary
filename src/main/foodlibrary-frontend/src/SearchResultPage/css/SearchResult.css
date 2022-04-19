@@ -1,0 +1,63 @@
+#ResultTitle {
+    font-family: NanumBarunGothic;
+    font-size: 3rem;
+    padding-top: 2rem;
+    color: #006edc;
+    text-align: center;
+}
+
+#searchResultHR {
+    border: 0.1px solid #006edc;
+    width: 72rem;
+}
+
+.classificationRow {
+    font-family: NanumBarunGothic;
+    font-size: 1rem;
+    margin-top: 1rem;
+    width: 100rem;
+}
+
+.selectSort {
+    font-size: 0.7rem;
+    font-family: NanumBarunGothic;
+    border: 1px solid #006edc;
+    width: 5.4rem;
+    height: 1.7rem;
+    margin-right: 1rem;
+    margin-top: -0.2rem;
+}
+
+#sortingSelect {
+    text-align: right;
+    margin-left: 0rem;
+    padding-right: 0rem;
+}
+
+#productCount{
+    color: #006edc;
+    font-weight: bold;
+}
+
+#sortingTitle {
+    text-align: right;
+    padding-right: 0px;
+    margin-left: 0.5rem;
+}
+
+.allergyFiltering {
+    margin-left: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.diseaseFiltering {
+    margin-left: 5rem;
+}
+
+#infoImgButton {
+    background-color: white;
+    border-radius: 200px;
+    border: 1px solid white;
+    margin-top: 0.6vh;
+    margin-left: 8.5rem;
+}

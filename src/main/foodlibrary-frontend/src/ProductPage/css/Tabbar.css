@@ -1,0 +1,50 @@
+.chart{
+    background-color: rgb(0,110,220);
+    color: white;
+}
+.userReview{
+    background-color: rgb(0,110,220);
+    color: white;
+}
+.activeTab{
+    background-color: rgb(0,110,220);
+    color: white;
+}
+.classNames.activeTab{
+    background-color: rgb(0,110,220);
+    color: white;
+}
+.classNames.chart{
+    background-color: rgb(0,110,220);
+    color: white;
+}
+
+.tabMenu {
+    font-size: 1rem;
+    font-family: NanumBarunGothic;
+    letter-spacing: 0.1rem;
+    color: dimgray;
+}
+
+#productDetailTab {
+    margin-left: 1.4rem;
+    margin-top: 2rem;
+    margin-bottom: 10rem;
+}
+
+.foodTable {
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+#productTab {
+    font-family: NanumBarunGothic;
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    color: #006edc;
+    text-align: center;
+}
+
+#productTab:hover{
+    border: 1px solid #006edc;
+}

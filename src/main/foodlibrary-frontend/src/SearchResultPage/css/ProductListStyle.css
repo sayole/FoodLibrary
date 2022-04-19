@@ -1,0 +1,124 @@
+#productImg {
+    height: 30vh;
+    width: 30vh;
+    border: 1px solid gray;
+}
+
+#productResult {
+    margin-top: 2vh;
+    margin-left: 1vh;
+}
+
+
+.productListImg {
+    margin-top: 1vh;
+}
+
+#productManufacturer {
+    font-family: NanumBarunGothic;
+    font-size: 1.2vh;
+    padding-top: 0.8vh;
+    color: dimgray;
+}
+
+#productName {
+    font-family: NanumBarunGothic;
+    font-size: 1.3rem;
+    text-align: left;
+}
+
+#manufacturerAndName {
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    padding-left: 2.5rem;
+    text-align: center;
+}
+
+#allergyArea {
+    margin-top: 0.5vh;
+    text-align: center;
+    font-size: 1.2vh;
+    padding-left: 2rem;
+}
+
+#diseaseArea {
+    margin-top: 1vh;
+    text-align: center;
+    font-size: 1.2vh;
+    padding-left: 2rem;
+}
+
+#likeButton {
+    margin-bottom: 1vh;
+    background-color:  rgba(0,0,0,0);
+    border-radius: 50px;
+    border: 0;
+    outline: 0;
+}
+
+#likeButtonImage {
+    width: 2.2vh;
+    height: 2.2vh;
+    margin-bottom: 1.15vh;
+}
+
+#heartButton {
+    padding-top: 1vh;
+    background-color: rgba(0,0,0,0);
+    border-radius: 50px;
+    border: 0px;
+    outline: 0px;
+}
+
+button {
+    outline: none;
+}
+
+#heartButtonImage {
+    padding-top: 0.2vh;
+    margin-top: 0.1vh;
+    margin-bottom: 1.2vh;
+    width: 2.5vh;
+    height: 3.1vh;
+}
+
+.allergyChip {
+    border: 1px solid #ce2939 !important;
+    margin: 2px !important;
+    border-radius: 30px !important;
+    font-family: NanumBarunGothic !important;
+    font-size: 1vh !important;
+    color: white !important;
+    background-color: #ce2939 !important;
+    text-align: center !important;
+    vertical-align: center !important;
+}
+
+.diseaseChip {
+    border: 1px solid #ce2939 !important;
+    margin: 3px !important;
+    border-radius: 30px !important;
+    font-family: NanumBarunGothic !important;
+    font-size: 1vh !important;
+    color: white !important;
+    background-color: #ce2939 !important;
+    text-align: center !important;
+    vertical-align: center !important;
+}
+
+#diseaseChipArea {
+    padding-top: 0.8vh;
+    padding-left: 0vh;
+}
+
+#allergyChipArea {
+    padding-top: 0.2vh;
+    padding-left: 0vh;
+}
+
+
+#productList {
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+}

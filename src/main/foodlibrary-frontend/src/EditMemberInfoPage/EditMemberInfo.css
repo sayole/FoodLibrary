@@ -1,0 +1,35 @@
+#editMemberInfoArea {
+    text-align: center;
+    padding-bottom: 4vh;
+}
+
+#editMemberInfo  {
+    padding-top: 3vh;
+}
+
+#editMemberInfoTitle {
+    text-align: center;
+    font-family: NanumBarunGothic;
+    font-size: 4vh;
+    color: #006edc;
+}
+
+#editMemberInfoButton {
+    border: 1px solid #006edc;
+    color: #006edc;
+    background-color: white;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+    margin-left: 1rem;
+}
+
+#filtering{
+    margin-left: 3rem;
+}
+
+.defaultValue {
+    text-align: center;
+    font-family: NanumBarunGothic;
+    font-size: 1.8vh;
+    color: #006edc;
+}

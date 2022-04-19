@@ -1,0 +1,34 @@
+.allergyCheck {
+    font-size: 1.5vh;
+    margin-bottom: 1vh;
+}
+
+.diseaseCheck {
+    font-size: 1.5vh;
+    margin-bottom: 1vh;
+}
+
+#allergyRow {
+    padding-bottom: 3vh;
+
+}
+
+#allergyTitle {
+    padding-top:0rem;
+    margin-bottom: 2vh;
+    color: #006edc;
+}
+
+#allergyText {
+    font-size: 2vh;
+
+}
+
+#diseaseTitle {
+    margin-bottom: 2vh;
+    color: #006edc;
+}
+
+#diseaseText {
+    font-size: 2vh;
+}
